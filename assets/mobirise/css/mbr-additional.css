@@ -4775,3 +4775,48 @@ body {
 .cid-r8wz7RwScw .card-img {
   text-align: center;
 }
+.cid-r8yhWfZLZV {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-r8yhWfZLZV .btn-social {
+  border: none !important;
+}
+.cid-r8yhWfZLZV [class^="socicon-"]:before,
+.cid-r8yhWfZLZV [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-r8yhWfZLZV .btn {
+    font-size: 20px !important;
+  }
+}
