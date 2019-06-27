@@ -2009,6 +2009,37 @@ body {
 .cid-qTkAaeaxX5 P {
   text-align: left;
 }
+.cid-ruD09dLTpa {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-ruD0K7fRkD {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+.cid-ruD0K7fRkD .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ruD0K7fRkD .section-text {
+  padding: 2rem 0;
+}
+.cid-ruD0K7fRkD .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ruD0K7fRkD .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-ruD0K7fRkD .section-text DIV {
+  text-align: left;
+}
 .cid-r8wtTV0t7W {
   padding-top: 90px;
   padding-bottom: 90px;
